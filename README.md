@@ -1,4 +1,4 @@
-## Adventure-Works-Analytics-Project
+## 🚴‍♂️ Adventure-Works-Analytics-Project
 
 This project helps to analyse **Sales Performance Analysis** of **Adventure Works Cycle**.
 It highlights key sales trends, profitability metrics, and actionable insights to help optimize business strategies.
