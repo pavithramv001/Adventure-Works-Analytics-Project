@@ -14,7 +14,7 @@ The analysis examines financial and operational data to:
 - **Power BI** And **Tableau** for data modeling, visualization,and creating interactive reports and dashboards. 
 - **SQL** for data extraction and transformation. 
 - **Excel** for initial data cleaning and validation.
-- **Python** for data cleaning and data trdansformation.
+- **Python** for data cleaning and data transformation.
   
 - ##  ETL Process
 1. **Extract** – Pulled raw sales and financial data from Adventure Works database.
