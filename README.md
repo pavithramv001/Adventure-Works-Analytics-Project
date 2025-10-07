@@ -1,7 +1,6 @@
-<img width="6886" height="112" alt="image" src="https://github.com/user-attachments/assets/353183f8-964d-411b-850d-7c44e1b3cf32" /># Adventure-Works-Analytics-Project
+## Adventure-Works-Analytics-Project
 
-
-This project helps to analyse **Sales Performance Analysis** of **Adventure Works Cycle**
+This project helps to analyse **Sales Performance Analysis** of **Adventure Works Cycle**.
 It highlights key sales trends, profitability metrics, and actionable insights to help optimize business strategies.
 
 ## Project Overview
@@ -31,7 +30,7 @@ The analysis examines financial and operational data to:
 - 
 ##  Deliverables
 - **Power BI Dashboard**: Interactive reports showing KPIs, trends, and profitability.
-https://github.com/pavithramv001/Adventure-Works-Analytics-Project/raw/refs/heads/main/Adventure%20works(Power%20BI%20dashboard).pbix
+- https://github.com/pavithramv001/Adventure-Works-Analytics-Project/raw/refs/heads/main/Adventure%20works(Power%20BI%20dashboard).pbix
 
 ##  Recommendations
 - Focus marketing campaigns on high-performing months (e.g., December) to maximize revenue.
