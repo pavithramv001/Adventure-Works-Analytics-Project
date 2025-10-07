@@ -15,7 +15,7 @@ The analysis examines financial and operational data to:
 - **SQL** for data extraction and transformation. 
 - **Excel** for initial data cleaning and validation.
 - **Python** for data cleaning and data trdansformation.
-- 
+  
 - ##  ETL Process
 1. **Extract** – Pulled raw sales and financial data from Adventure Works database.
 2. **Transform** – Cleaned, normalized, and prepared the data using SQL & Excel and Python.
